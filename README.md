@@ -6,6 +6,8 @@ realtime-web framework for node.js
 express.io = express + socket.io
 ```
 
+## This version has updated the files switch.js and /lib/index.coffee; now all tests and library is working well.
+
 ## Simple App Setup
 
 Here is the canonical express.io example.
