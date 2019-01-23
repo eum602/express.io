@@ -1,12 +1,11 @@
-![express.io](http://cdn.techpines.io/express.io-black.png)
+## This version has updated the files switch.js and /lib/index.coffee; now all tests and library is working well.
+Solved the problems related with te problems: "cannot find module 'express/node_modules/connect' " and  "Cannot find module './node_modules/coffee-script' "
 
 realtime-web framework for node.js
 
 ```coffeescript
 express.io = express + socket.io
 ```
-
-## This version has updated the files switch.js and /lib/index.coffee; now all tests and library is working well.
 
 ## Simple App Setup
 
